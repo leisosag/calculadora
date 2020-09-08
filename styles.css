@@ -18,7 +18,7 @@ body {
 button {
     cursor: pointer;
     font-size: 2rem;
-    border: 1px solid #fff;
+    border: 1px solid #000;
     outline: none;
     background-color: rgba(255, 255, 255, 0.8);
 }
@@ -32,7 +32,7 @@ button {
     padding: 10px;
     word-wrap: break-word;
     word-break: break-all;
-    border: 1px solid #fff;
+    border: 1px solid #000;
     outline: none;
 }
 .display {
